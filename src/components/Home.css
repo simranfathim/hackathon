@@ -1,0 +1,28 @@
+
+
+.h1{
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:  #cc0084;
+/*  
+   background-color:#320073; */
+   /* background-image: url("https://img.jagranjosh.com/images/2023/May/1152023/ICC-Cricket-World-Cup-2023-Schedule-Teams.jpg");  */
+}
+
+.text-9xl{
+    color:#cc0084;
+}
+.first{
+    display:flex;
+    background-color:#320073; 
+}
+
+.content{
+    
+    color:aliceblue;
+}
+.shop{
+    display:flex;
+    justify-content: space-between;
+    background-color:#320073; 
+}

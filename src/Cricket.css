@@ -1,0 +1,30 @@
+.count{
+
+border:'3px  solid black';
+border-radius:40px;
+color:white;
+padding: '10px';
+background-color:#ff00a5
+/* background-color:linear-gradient(90deg, #1CB5E0 0%, #000851 100%); */
+
+/* background-image: url("https://sportsmintmedia.com/wp-content/uploads/2023/05/ICC-Mens-Cricket-World-Cup-2023-signs-the-dotted-lines-with-DreamSetGO-1.jpg"); */
+}
+.head{
+   color:#241468;
+}
+.card1{
+    justify-content: space-between;
+    display:flex;
+    /* border:2px solid red; */
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+}
+.card-body{
+    background-color: whitesmoke;
+
+}
+.page{
+    background-color:#1D5D9B;
+}
+
+
+
